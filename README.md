@@ -11,6 +11,7 @@ INTERN ID: COD73117
 *DURATION: 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
+
 In this task, the objective was to migrate a complete database from MySQL to PostgreSQL and ensure data integrity after migration. The process was carried out using pgAdmin 4 as the management tool for PostgreSQL, alongside a utility called pgLoader to handle the automated migration of both schema and data. This task allowed me to understand the practical steps of database migration and how to ensure a reliable transition between database systems.
 
 🗃️ Why Migrate?
